@@ -1,2 +1,4 @@
-無法載入 '0'
-行號 0: 無法載入檔案 D:\Github\3x3-magic-cube\code\Form1.frm。
+行號 26: 控制項 Application1 的物件類別 MILAPPLICATIONLib.Application 尚未被載入。
+行號 39: 控制項 System1 的物件類別 MILSYSTEMLib.System 尚未被載入。
+行號 55: 控制項 Buffer1 的物件類別 MILBUFFERLib.Buffer 尚未被載入。
+行號 82: 控制項 CommonDialog1 的物件類別 MSComDlg.CommonDialog 尚未被載入。
